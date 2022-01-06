@@ -1,3 +1,32 @@
-p{
-    color: red;
+body{
+    margin: 0%;
+    font-family: poppins, sans-serif;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.color-heading{
+    color: sandybrown;
+}
+.btn{
+    background-color: tomato;
+    border-radius: 2px;
+}
+a.btn{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
 }
